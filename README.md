@@ -17,16 +17,16 @@ CSS (Cascading Style Sheets): Used for styling HTML elements by defining their v
 
 JavaScript: Used for adding interactivity and dynamic behavior to web pages, allowing developers to manipulate HTML and CSS, handle user actions, and interact with web APIs.<BR>
 <B> KEY FEATURES OF EXPENSE TRACKER<B> <BR>
-Expense Logging: Easily record expenses with details like amount and category.<BR>
-Budget Management: Set and track budgets for different spending categories.<BR>
-Real-time Updates: Instantly view spending and remaining budget.<BR>
-Data Visualization: Graphical representation of spending patterns for better insights.<BR>
-Reminder Notifications: Receive alerts for bill payments and overspending.<BR>
-Secure Storage: Ensure data security with encryption and secure storage methods.<BR>
-Multi-platform Access: Accessible across web, mobile, and desktop platforms.<BR>
-Export/Import: Ability to export/import data for backup and analysis.<BR>
-Integration: Integration with bank accounts for automatic transaction syncing.<BR>
-Customization: Customize settings like currency and language for user preferences.<BR>
+1)Expense Logging: Easily record expenses with details like amount and category.<BR>
+2)Budget Management: Set and track budgets for different spending categories.<BR>
+3)Real-time Updates: Instantly view spending and remaining budget.<BR>
+4)Data Visualization: Graphical representation of spending patterns for better insights.<BR>
+5)Reminder Notifications: Receive alerts for bill payments and overspending.<BR>
+6)Secure Storage: Ensure data security with encryption and secure storage methods.<BR>
+7)Multi-platform Access: Accessible across web, mobile, and desktop platforms.<BR>
+8)Export/Import: Ability to export/import data for backup and analysis.<BR>
+9)Integration: Integration with bank accounts for automatic transaction syncing.<BR>
+10)Customization: Customize settings like currency and language for user preferences.<BR>
 
 
 
